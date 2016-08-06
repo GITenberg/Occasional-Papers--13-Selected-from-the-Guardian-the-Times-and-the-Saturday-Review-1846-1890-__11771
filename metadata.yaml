@@ -1,0 +1,41 @@
+_repo: Occasional-Papers--13-Selected-from-the-Guardian-the-Times-and-the-Saturday-Review-1846-1890-__11771
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Church, R. W. (Richard William)
+    alias: Church, Richard William
+    birthdate: 1815
+    deathdate: 1890
+    gutenberg_agent_id: '4104'
+    url: http://www.gutenberg.org/2009/agents/4104
+    wikipedia: http://en.wikipedia.org/wiki/Richard_William_Church
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11771'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Great Britain -- Church history -- 19th century'
+- !lcc 'BR'
+- !lcsh 'Christianity'
+- !lcsh 'Church and state -- Great Britain'
+- GITenberg
+tableOfContents: Mr. Gladstone on the royal supremacy -- Joyce on courts of spiritual
+  appeal -- Privy council judgments -- Sir John Coleridge on the purchas case -- Mr.
+  Gladstone's letter on the English church -- Disendowment -- The new court -- Mozley's
+  Bampton lectures -- Ecce homo -- The author of "Robert Elsmere" on a new reformation
+  -- Renan's "Vie de Jesus" -- Renan's "Les apôtres" -- Renan's Hibbert lectures --
+  Renan's "Souvenirs d'enfance" -- Life of Frederick Robertson -- Life of Baron Bunsen
+  -- Coleridge's Memoir of Keble -- Maurice's theological essays -- Frederick Denison
+  Maurice -- Sir Richard Church -- Death of Bishop Wilberforce -- Retirement of the
+  provost of Oriel -- Mark Pattison -- Pattison's essays -- Bishop Frazer -- Newman's
+  "Apologia" -- Dr. Newman on the "Eirenicon" -- Newman's Parochial sermons -- Cardinal
+  Newman -- Cardinal Newman's course -- Cardinal Newman's naturalness -- Lord Blachford.
+title: "Occasional Papers\r\nSelected from the Guardian, the Times, and the Saturday\
+  \ Review, 1846-1890, Vol. 2"
+url: http://www.gutenberg.org/ebooks/11771
